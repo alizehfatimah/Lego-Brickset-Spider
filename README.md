@@ -7,6 +7,6 @@ To use this file, open Anaconda.
 From the left panel, go to environments.
 Select the Scrapy library that you want to install in the environment in which you are working ('base' if you want Scrapy for systemwide use, or any other if you want it for that specific environment)
 Change directory into the legobricks folder through command prompt
-Run the command -> scrapy crawl legobrickspider
+Run the command -> scrapy crawl lego_brick_spider
 
 
